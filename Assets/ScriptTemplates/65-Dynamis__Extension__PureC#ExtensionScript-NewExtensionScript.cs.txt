@@ -1,0 +1,21 @@
+using System.Collections;
+using System.Collections.Generic;
+using UnityEngine;
+
+namespace Dynamis
+{
+    namespace Extension
+    {
+        /// <summary>
+        /// 
+        /// </summary>
+        public class #SCRIPTNAME#
+        {
+            //=====================================================================================================================
+            // 拡張関数
+            //=====================================================================================================================
+
+        }//class #SCRIPTNAME#
+    }//namespace Extension
+}//namespace Dynamis
+
